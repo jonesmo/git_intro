@@ -14,6 +14,8 @@ modified the implicit constructor of our class. More on
 this in the class definition under the Cursor tab.*/
 Cursor myCursor = new Cursor(50, 5);
 
+// adding a new line to demonstrate changes in GitHub Desktop
+
 void setup(){
   size(500, 500);
 }
